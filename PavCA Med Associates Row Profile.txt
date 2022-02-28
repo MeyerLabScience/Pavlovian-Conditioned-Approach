@@ -1,0 +1,218 @@
+MedPC Program
+MSN
+Squad
+Group
+Subject
+Subject
+Chamber
+Box
+StartDate
+!StartDate
+StartTime
+!StartTime
+Lever_CS
+C(1)
+Magazine_CS
+D(1)
+Magazine_NCS
+E(1)
+Lever Press Trial 1
+K(0)
+Lever Press Trial 2
+K(1)
+Lever Press Trial 3
+K(2)
+Lever Press Trial 4
+K(3)
+Lever Press Trial 5
+K(4)
+Lever Press Trial 6
+K(5)
+Lever Press Trial 7
+K(6)
+Lever Press Trial 8
+K(7)
+Lever Press Trial 9
+K(8)
+Lever Press Trial 10
+K(9)
+Lever Press Trial 11
+K(10)
+Lever Press Trial 12
+K(11)
+Lever Press Trial 13
+K(12)
+Lever Press Trial 14
+K(13)
+Lever Press Trial 15
+K(14)
+Lever Press Trial 16
+K(15)
+Lever Press Trial 17
+K(16)
+Lever Press Trial 18
+K(17)
+Lever Press Trial 19
+K(18)
+Lever Press Trial 20
+K(19)
+Lever Press Trial 21
+K(20)
+Lever Press Trial 22
+K(21)
+Lever Press Trial 23
+K(22)
+Lever Press Trial 24
+K(23)
+Lever Press Trial 25
+K(24)
+Lever Latency Trial 1
+L(0)
+Lever Latency Trial 2
+L(1)
+Lever Latency Trial 3
+L(2)
+Lever Latency Trial 4
+L(3)
+Lever Latency Trial 5
+L(4)
+Lever Latency Trial 6
+L(5)
+Lever Latency Trial 7
+L(6)
+Lever Latency Trial 8
+L(7)
+Lever Latency Trial 9
+L(8)
+Lever Latency Trial 10
+L(9)
+Lever Latency Trial 11
+L(10)
+Lever Latency Trial 12
+L(11)
+Lever Latency Trial 13
+L(12)
+Lever Latency Trial 14
+L(13)
+Lever Latency Trial 15
+L(14)
+Lever Latency Trial 16
+L(15)
+Lever Latency Trial 17
+L(16)
+Lever Latency Trial 18
+L(17)
+Lever Latency Trial 19
+L(18)
+Lever Latency Trial 20
+L(19)
+Lever Latency Trial 21
+L(20)
+Lever Latency Trial 22
+L(21)
+Lever Latency Trial 23
+L(22)
+Lever Latency Trial 24
+L(23)
+Lever Latency Trial 25
+L(24)
+Magazine Entries Trial 1
+M(0)
+Magazine Entries Trial 2
+M(1)
+Magazine Entries Trial 3
+M(2)
+Magazine Entries Trial 4
+M(3)
+Magazine Entries Trial 5
+M(4)
+Magazine Entries Trial 6
+M(5)
+Magazine Entries Trial 7
+M(6)
+Magazine Entries Trial 8
+M(7)
+Magazine Entries Trial 9
+M(8)
+Magazine Entries Trial 10
+M(9)
+Magazine Entries Trial 11
+M(10)
+Magazine Entries Trial 12
+M(11)
+Magazine Entries Trial 13
+M(12)
+Magazine Entries Trial 14
+M(13)
+Magazine Entries Trial 15
+M(14)
+Magazine Entries Trial 16
+M(15)
+Magazine Entries Trial 17
+M(16)
+Magazine Entries Trial 18
+M(17)
+Magazine Entries Trial 19
+M(18)
+Magazine Entries Trial 20
+M(19)
+Magazine Entries Trial 21
+M(20)
+Magazine Entries Trial 22
+M(21)
+Magazine Entries Trial 23
+M(22)
+Magazine Entries Trial 24
+M(23)
+Magazine Entries Trial 25
+M(24)
+Magazine Latency Trial 1
+N(0)
+Magazine Latency Trial 2
+N(1)
+Magazine Latency Trial 3
+N(2)
+Magazine Latency Trial 4
+N(3)
+Magazine Latency Trial 5
+N(4)
+Magazine Latency Trial 6
+N(5)
+Magazine Latency Trial 7
+N(6)
+Magazine Latency Trial 8
+N(7)
+Magazine Latency Trial 9
+N(8)
+Magazine Latency Trial 10
+N(9)
+Magazine Latency Trial 11
+N(10)
+Magazine Latency Trial 12
+N(11)
+Magazine Latency Trial 13
+N(12)
+Magazine Latency Trial 14
+N(13)
+Magazine Latency Trial 15
+N(14)
+Magazine Latency Trial 16
+N(15)
+Magazine Latency Trial 17
+N(16)
+Magazine Latency Trial 18
+N(17)
+Magazine Latency Trial 19
+N(18)
+Magazine Latency Trial 20
+N(19)
+Magazine Latency Trial 21
+N(20)
+Magazine Latency Trial 22
+N(21)
+Magazine Latency Trial 23
+N(22)
+Magazine Latency Trial 24
+N(23)
+Magazine Latency Trial 25
+N(24)
